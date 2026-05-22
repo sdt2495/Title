@@ -1,7 +1,7 @@
 # 概要　落ちる地面に気を付けて何秒でクリアできるか！！
 # 操作方法
   　WASD　spaceキー
-   #工夫した点
+   # 工夫した点
     地面の揺れ
 [README_SAMPLE.md](https://github.com/user-attachments/files/28131518/README_SAMPLE.md)
 # Unity Game A Week - Season1 Week1
